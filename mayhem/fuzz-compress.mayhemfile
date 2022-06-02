@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz-compress
+cmds:
+- cmd: /out/fuzz-compress
